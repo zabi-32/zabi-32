@@ -23,6 +23,12 @@ This repository houses the code and resources for our innovative project aimed a
 ### [Comparative Analysis of Image Analysis Algorithms Language ](https://github.com/zabi-32/Image-Analysis-Project)
 This project aims to compare Machine Learning and Deep Learning algorithms in the case of Pneumonia Detection using the Chest X-Ray Images dataset.
 
+### [Customer Segmentation Project](https://github.com/zabi-32/Customer_segmentation)
+This repository contains a customer segmentation project, which aims to analyze and segment customers based on their purchasing behavior. Customer segmentation is a valuable technique for businesses to understand their customer base better, tailor marketing strategies, and improve customer satisfaction.
+
+### [EmoBot: Real-Time Emotion Detection With Voice-Activated Assistant](https://github.com/souvikghosh2000/EmoBot)
+EmoBot is an innovative project that combines real-time emotion detection with a voice-activated assistant, creating an interactive and emotionally-aware AI companion. This repository contains all the code and resources you need to build your own EmoBot and explore the exciting world of emotion-aware artificial intelligence.
+
 ## 📚 Education & Certifications
 
 - M.Sc in Data Science, [Christ University]
