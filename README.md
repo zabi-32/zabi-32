@@ -31,8 +31,8 @@ EmoBot is an innovative project that combines real-time emotion detection with a
 
 ## 📚 Education & Certifications
 
-- M.Sc in Data Science, [Christ University]
-- B.Sc (Hons.) in Data Science and Analytics, [Jain University]
+- M.Sc in Data Science, [Christ University](https://christuniversity.in/)
+- B.Sc (Hons.) in Data Science and Analytics, [Jain University](https://www.jainuniversity.ac.in/)
 - Certificates: Google Data Analytics, Python for Data Science and AI by IBM
 
 Let's uncover the stories hidden in the data together! 🚀📈
